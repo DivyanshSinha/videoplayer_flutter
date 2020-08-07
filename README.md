@@ -7,7 +7,7 @@ An app that plays offline/online audio and video files.
 (Note: minsdk version required 17)
 
 
-1)Create a flutter app.
+1) Create a flutter app.
 
 2) Use assets (eg. audios and videos).
 
